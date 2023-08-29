@@ -1,0 +1,13 @@
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/my_app
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/malik/Desktop/flutter/my_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
